@@ -639,59 +639,402 @@ body {
 }
 
 
-
-
-
-
-/* 
-.header {
-    width: 1360px;
-    height: 73px;
-    position: relative;
-}
-
-.header img {
-    width: 200px;
-    height: 39px;
+#fourth-sub-div {
+    width: 580px;
+    height: 154px;
+    left: 0px;
+    top: 409px;
     position: absolute;
 }
 
-.nav {
-    width: 476px;
-    height: 40px;
-    position: absolute;
-    top: 0;
-    right: 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+
+#fourth-sub-div-one {
+    width: 580px;
+    height: 2px;
+    left: 0px;
+    top: 152px;
+    position: absolute;background: #F5F7FA;
 }
 
-.nav > div {
-    position: relative;
+
+#fourth-sub-div-two {
+    width: 483px;
+    height: 60px;
+    left: 49px;
+    top: 51px;
+    position: absolute;
+}
+
+
+#div-one {
+    width: 483px;
+    height: 36px;
+    left: 0px;
+    top: 24px;
+    position: absolute;
+    background: #EDEFF2;
+    border-radius: 4px;
+}
+
+
+#card-number {
+    width: 154px;
+    left: 13px;
+    top: 33px;
+    position: absolute;
+    color: #646E7A;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#date {
+    width: 154px;
+    left: 262px;
+    top: 33px;
+    position: absolute;
+    text-align: right;
+    color: #646E7A;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#cvc {
+    width: 36px;
+    left: 431px;
+    top: 33px;
+    position: absolute;
+    text-align: right;
+    color: #646E7A;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#credit-card {
+    width: 187px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
     color: #1D2C3C;
     font-size: 14px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#fourth-sub-div-three {
+    width: 286px;
+    height: 30px;
+    left: 49px;
+    top: 0px;
+    position: absolute;
+}
+
+
+#pay-info {
+    width: 246px;
+    left: 40px;
+    top: 2px;
+    position: absolute;
+    color: #1D2C3C;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+#fourth-sub-div-three-one {
+    width: 30px;
+    height: 30px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+
+#two {
+    width: 16px;
+    left: 7px;
+    top: 4px;
+    position: absolute;
+    text-align: center;
+    color: #548BC5;
+    font-size: 16px;
     font-family: Lato;
     font-weight: 700;
     word-wrap: break-word;
 }
 
-.account-button {
-    width: 91px;
-    height: 40px;
+
+#three {
+    width: 30px;
+    height: 30px;
+    left: 0px;
+    top: 0px;
     position: absolute;
-    right: 0;
-    top: 0;
-    border-radius: 6px;
-    border: 2px #646E7A solid;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    border-radius: 9999px;
+    border: 2px #548BC5 solid;
+}
+
+
+#fifth-sub-div {
+    width: 580px;
+    height: 221px;
+    left: 0px;
+    top: 155px;
+    position: absolute;
+}
+
+
+#fifth-sub-div-one {
+    width: 580px;
+    height: 2px;
+    left: 0px;
+    top: 219px;
+    position: absolute;
+    background: #F5F7FA;
+}
+
+
+#fifth-sub-div {
+    width: 227px;
+    height: 60px;
+    left: 49px;
+    top: 43px;
+    position: absolute;
+}
+
+
+#name-area {
+    width: 227px;
+    height: 36px;
+    left: 0px;
+    top: 24px;
+    position: absolute;
+    background: #EDEFF2;
+    border-radius: 4px;
+}
+
+
+#jane {
+    width: 187px;
+    left: 13px;
+    top: 33px;
+    position: absolute;
+    color: #646E7A;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#first-name {
+    width: 187px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
     color: #1D2C3C;
     font-size: 14px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#fifth-sub-div-three {
+    width: 370px;
+    height: 60px;
+    left: 49px;
+    top: 118px;
+    position: absolute;
+}
+
+
+#contact-area {
+    width: 370px;
+    height: 36px;
+    left: 0px;
+    top: 24px;
+    position: absolute;
+    background: #EDEFF2;
+    border-radius: 5px;
+}
+
+
+#sample-email {
+    width: 187px;
+    left: 13px;
+    top: 33px;
+    position: absolute;
+    color: #646E7A;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#e-mail {
+    width: 187px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: #1D2C3C;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#fifth-sub-div-four {
+    width: 227px;
+    height: 60px;
+    left: 306px;
+    top: 43px;
+    position: absolute;
+}
+
+
+#fifth-sub-div-four-one {
+    width: 226px;
+    height: 36px;
+    left: 0px;
+    top: 24px;
+    position: absolute;
+    background: #EDEFF2;
+    border-radius: 4px;
+}
+
+
+#doe {
+    width: 197px;
+    left: 13px;
+    top: 33px;
+    position: absolute;
+    color: #646E7A;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#last-name {
+    width: 227px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: #1D2C3C;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#fifth-sub-div-five {
+    width: 260px;
+    height: 34px;
+    left: 49px;
+    top: 0px;
+    position: absolute;
+}
+
+
+#info {
+    width: 220px;
+    height: 32px;
+    left: 40px;
+    top: 2px;
+    position: absolute;
+    color: #1D2C3C;
+    font-size: 18px;
     font-family: Lato;
     font-weight: 700;
     word-wrap: break-word;
 }
 
-Add more styles as needed */
+#fifth-sub-div-five-two {
+    width: 30px;
+    height: 30px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+
+#one {
+    width: 16px;
+    left: 7px;
+    top: 4px;
+    position: absolute;
+    text-align: center;
+    color: #548BC5;
+    font-size: 16px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+#one-two {
+    width: 30px;
+    height: 30px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-radius: 9999px;
+    border: 2px #548BC5 solid;
+}
+
+
+#sixth-sub-div {
+    width: 580px;
+    height: 80px;
+    left: 0px;
+    top: 41px;
+    position: absolute;
+}
+
+
+#checkout-one {
+    width: 580px;
+    height: 2px;
+    left: 0px;
+    top: 78px;
+    position: absolute;
+    background: #F5F7FA;
+}
+
+
+#checkout {
+    width: 161px;
+    height: 54px;
+    left: 48px;
+    top: 0px;
+    position: absolute;
+    color: #1D2C3C;
+    font-size: 30px;
+    font-family: Lato;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+
+#container4 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
