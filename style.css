@@ -1,0 +1,697 @@
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    background: #F5F8FA;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: inline-flex;
+}
+
+.nav {
+    width: 476px;
+    height: 40px;
+    left: 884px;
+    top: 0px;
+    position: absolute;
+}
+
+#logoimg {
+    width: 200px;
+    height: 39px;
+    left: 0px;
+    top: 2px;
+    position: absolute;
+}
+
+.navbtn {
+    text-align: center;
+    color: #1D2C3C;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#btn {
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+    border: 2px #646E7A solid;
+}
+
+#Download {
+    left: 0px;
+    top: 11px;
+    position: absolute;
+    text-align: center;
+    color: #1D2C3C;
+    font-size: 14px;
+    font-family: lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#learn {
+    left: 107px;
+    top: 11px;
+    position: absolute;
+    color: #1D2C3C;
+    font-size: 14px;
+    font-family: lato;
+    font-weight: 700;
+    word-wrap: break-word;
+
+}
+
+
+#price {
+    left: 224px;
+    top: 11px;
+    position: absolute;
+    color: #1D2C3C;
+    font-size: 14px;
+    font-family: lato;
+    font-weight: 700;
+    word-wrap: break-word;
+
+}
+
+#help {
+    left: 311px;
+    top: 11px;
+    position: absolute;
+    color: #1D2C3C;
+    font-size: 14px;
+    font-family: lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#account {
+    width: 91px;
+    height: 40px;
+    left: 385px;
+    top: 0px;
+    position: absolute;
+}
+
+
+#btn {
+    left: 19px;
+    top: 11px;
+    position: absolute;
+    color: #1D2C3C;
+    font-size: 14px;
+    font-family: lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+#btn-btn {
+    width: 91px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-radius: 6px;
+    border: 2px #646E7A solid;
+}
+
+.header {
+    width: 1360px;
+    height: 73px;
+    position: relative;
+}
+
+#space {
+    width: 1358px;
+    height: 2px;
+    left: 2px;
+    top: 71px;
+    position: absolute;
+    background: #E0E6EA;
+}
+
+.container2 {
+    width: 892px;
+    height: 845px;
+    position: relative;
+}
+
+.background {
+    width: 892px;
+    height: 795px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+
+.footer-span {
+    width: 867px;
+    left: 25px;
+    top: 828px;
+    position: absolute;
+    text-align: center;
+
+}
+
+#cprt {
+    color: #636B6F;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#terms {
+    color: #31708F;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.buy-btn {
+    width: 483px;
+    height: 146.10;
+    left: 49px;
+    top: 602px;
+    position: absolute;
+}
+
+#box1 {
+    width: 483px;
+    height: 52px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+
+#inner-box-1 {
+    width: 483px;
+    height: 52px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #038E7D;
+    border-radius: 5px;
+}
+
+
+#inner-box-2-WP-Pusher {
+    width: 483px;
+    left: 0px;
+    top: 13px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+.enquiry {
+    width: 333px;
+    height: 20px;
+    left: 75px;
+    top: 75px;
+    position: absolute;
+}
+
+
+#inner-box-one {
+    width: 94px;
+    height: 1px;
+    left: 233px;
+    top: 16px;
+    position: absolute;
+    background: #646E7A;
+}
+
+
+#span-box {
+    width: 303px;
+    height: 16px;
+    left: 30px;
+    top: 1px;
+    position: absolute;
+}
+
+
+#need-help {
+    color: #1D2C3C;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+#support {
+    color: #646E7A;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#enq-img {
+    width: 20px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+
+#container2-img {
+    width: 92px;
+    height: 20.10px;
+    left: 197px;
+    top: 126px;
+    position: absolute;
+    opacity: 0.50;
+}
+
+
+.container3 {
+    width: 312px;
+    height: 795px;
+    left: 580px;
+    top: 0px;
+    position: absolute;
+}
+
+
+#three-first-div {
+    width: 312px;
+    height: 795px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #1179BF;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+
+#three-second-div {
+    width: 231px;
+    height: 610px;
+    left: 44px;
+    top: 42px;
+    position: absolute;
+}
+
+
+#three-second-div-one {
+    width: 231px;
+    height: 152px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+
+#freelance {
+    left: 2px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+#three-second-div-one-span {
+    width: 140px;
+    height: 72px;
+    left: 0px;
+    top: 29px;
+    position: absolute;
+}
+
+
+#second-div-one-span {
+    left: 20px;
+    top: 0px;
+    position: absolute;
+}
+
+
+#ninety-nine {
+    color: white;
+    font-size: 60px;
+    font-family: Lato;
+    font-weight: 300;
+    word-wrap: break-word;
+}
+
+
+#per-year {
+    color: white;
+    font-size: 18px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+#dollar {
+    left: 0px;
+    top: 13px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+#three-second-div-two {
+    width: 229px;
+    left: 2px;
+    top: 104px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Lato;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+    word-wrap: break-word;
+}
+
+
+#three-third-div {
+    width: 170px;
+    height: 96px;
+    left: 1px;
+    top: 188px;
+    position: absolute;
+}
+
+
+#three-third-div-one-span {
+    left: 31px;
+    top: 0px;
+    position: absolute;
+}
+
+
+#use-on {
+    color: white;
+    font-size: 16px;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 24px;
+    word-wrap: break-word;
+}
+
+
+#five {
+    color: white;
+    font-size: 16px;
+    font-family: lato;
+    font-weight: 700;
+    line-height: 24px;
+    word-wrap: break-word;
+}
+
+
+#client-sites {
+    color: white;
+    font-size: 16px;
+    font-family: Lato;
+    font-weight: 400;
+    line-height: 24px;
+    word-wrap: break-word;
+}
+
+
+#three-image-one {
+    width: 20px;
+    height: 20px;
+    left: 0px;
+    top: 1px;
+    position: absolute;
+}
+
+
+#three-image-two {
+    width: 20px;
+    height: 20px;
+    left: 0px;
+    top: 37px;
+    position: absolute;
+}
+
+
+#three-image-three {
+    width: 20px;
+    height: 20px;
+    left: 0px;
+    top: 73px;
+    position: absolute;
+}
+
+
+#three-fourth-div {
+    width: 184px;
+    height: 51px;
+    left: 2px;
+    top: 322px;
+    position: absolute;
+}
+
+
+#three-fourth-div-span {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+
+#need {
+    color: white;
+    font-size: 16px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#twenty {
+    color: white;
+    font-size: 16px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+#client-sites-ques, #period {
+    color: white;
+    font-size: 16px;
+    font-family: Lato;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#switch, #plan {
+    color: white;
+    font-size: 16px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+#agency {
+    color: white;
+    font-size: 16px;
+    font-family: Lato;
+    font-style: italic;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+#three-fourth-div-space {
+    width: 180px;
+    height: 4px;
+    left: 0px;
+    top: 47px;
+    position: absolute;
+    opacity: 0.50;
+    background: #B9F5FF;
+}
+
+
+#three-fifth-div {
+    width: 229px;
+    height: 196px;
+    left: 0px;
+    top: 414px;
+    position: absolute;
+}
+
+
+#three-fifth-div-span {
+    width: 227px;
+    left: 2px;
+    top: 43px;
+    position: absolute;
+}
+
+
+#ftp, #solves {
+    color: white;
+    font-size: 18px;
+    font-family: Lato;
+    line-height: 24px;
+    font-style: italic;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+#pusher {
+    color: white;
+    font-size: 18px;
+    font-family: Lato;
+    line-height: 24px;
+    font-style: italic;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+#three-fifth-div-div {
+    width: 40px;
+    height: 40px;
+    left: 0px;
+    top: 156px;
+    position: absolute;
+}
+
+
+.three-fifth-div-div-child {
+    width: 40px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D8D8D8;
+    border-radius: 9999px;
+}
+
+
+#three-fifth-div-div-img {
+    width: 40px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+
+#kirk {
+    left: 54px;
+    top: 166px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+#kirk-child {
+    width: 224px;
+    height: 2px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    opacity: 0.20;
+    background: white;
+}
+
+
+
+
+
+
+/* 
+.header {
+    width: 1360px;
+    height: 73px;
+    position: relative;
+}
+
+.header img {
+    width: 200px;
+    height: 39px;
+    position: absolute;
+}
+
+.nav {
+    width: 476px;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav > div {
+    position: relative;
+    color: #1D2C3C;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.account-button {
+    width: 91px;
+    height: 40px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-radius: 6px;
+    border: 2px #646E7A solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #1D2C3C;
+    font-size: 14px;
+    font-family: Lato;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+Add more styles as needed */
