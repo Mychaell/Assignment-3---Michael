@@ -143,6 +143,8 @@ body {
 .container2 {
     width: 892px;
     height: 845px;
+    left: 300px;
+    margin: 40px;
     position: relative;
 }
 
@@ -229,7 +231,7 @@ body {
     width: 333px;
     height: 20px;
     left: 75px;
-    top: 75px;
+    top: 655px;
     position: absolute;
 }
 
@@ -810,7 +812,7 @@ body {
     width: 227px;
     height: 60px;
     left: 49px;
-    top: 43px;
+    top: 93px;
     position: absolute;
 }
 
@@ -829,7 +831,7 @@ body {
 #jane {
     width: 187px;
     left: 13px;
-    top: 33px;
+    top: 73px;
     position: absolute;
     color: #646E7A;
     font-size: 14px;
@@ -842,7 +844,7 @@ body {
 #first-name {
     width: 187px;
     left: 0px;
-    top: 0px;
+    top: 52px;
     position: absolute;
     color: #1D2C3C;
     font-size: 14px;
